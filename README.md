@@ -3,7 +3,7 @@ This is my Shiny application for Developing Data Products Project (Data Science 
 
 It's very easy and friendly. My application calculates how many calories we can eat to arrived to our ideal weight!
 
-The application run here: 
+The application run here: https://charlot.shinyapps.io/developData
 
 Thank you for your time!
 
